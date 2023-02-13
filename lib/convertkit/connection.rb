@@ -1,6 +1,5 @@
 require "convertkit/errors"
 require "faraday"
-require "faraday_middleware"
 require "json"
 
 module Convertkit
